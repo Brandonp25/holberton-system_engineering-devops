@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x 0753
+chmod u+x 0753 hello
