@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo usermod betty
+sudo usermod -l betty root
