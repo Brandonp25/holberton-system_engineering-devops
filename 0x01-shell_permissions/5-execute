@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmode u+x hello
+sudo chmode 100 hello
