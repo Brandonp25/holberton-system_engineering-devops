@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo usermod -l betty root
+sudo username -l betty 1000
