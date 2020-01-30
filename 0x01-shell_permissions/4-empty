@@ -1,2 +1,2 @@
 #!/bin/bash
-mk hello
+touch hello
