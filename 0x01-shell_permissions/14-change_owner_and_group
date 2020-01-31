@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --from betty:holberton
+ch-hR holberton:betty
