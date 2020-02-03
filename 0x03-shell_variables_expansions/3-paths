@@ -1,2 +1,2 @@
 i#!/bin/bash
-echo $PATH | tr ':' '\n' |
+$PATH | tr ':' '\n' |
