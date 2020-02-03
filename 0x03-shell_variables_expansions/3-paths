@@ -1,2 +1,2 @@
-i#!/bin/bash
-echo $PATH | tr ':' '\n' | wc -l
+#!/bin/bash
+$PATH | tr ':' '\n' | wc -l
